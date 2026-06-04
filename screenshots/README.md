@@ -4,14 +4,14 @@ This folder contains workflow and report screenshots.
 
 ## Workflow
 
-![Workflow](screenshots/Workflow.png)
+![Workflow](Workflow.png)
 
 ## Sample Report
 
 ### Page 1
 
-![Output Example](screenshots/Output%20Example.jpg)
+![Output Example](Output%20Example.jpeg)
 
 ### Page 2
 
-![Output Example Part 2](screenshots/Output%20Example%20Part%202.jpg)
+![Output Example Part 2](Output%20Example%20Part%202.jpeg)
